@@ -3,22 +3,16 @@ let info = `
 *Hola 👋🏻, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia de The Shadow Borkers - Bot*
 
 *➤ Grupos oficiales del Bot:*
-*1.- https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ*
+*1.- https://chat.whatsapp.com/Bs0EAPB8qxf8yR7loELb7W*
 
-*2.- https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs*
+*2.- https://chat.whatsapp.com/DgdjNeD6GSoCij3M5L1RnA*
 
-*3.- https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F*
+*3.- https://chat.whatsapp.com/LEuqnG9NYRULoZurV0EIRP*
 
-*4.- https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*
+*4.- https://chat.whatsapp.com/FRc7UdRVIGHD2Bfuu1ngAa*
 
-*5.- https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb*
-
-*6.- https://chat.whatsapp.com/GvrLSUSzVuT9P17CKfdxDa*
-
-*7.- https://chat.whatsapp.com/HylyPaLc49b9DWF67K8pdc*
-
-*8.- https://chat.whatsapp.com/IW12dLVoyWGHreGpX7rQIw*
+*5.- https://chat.whatsapp.com/Bk7Wvt1tetg8w5thrHaXti*
 `.trim() 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 THE SHADOW BROKERS - BOT 🔥*', 'status@broadcast')}
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 ©𝗔𝗹𝗲𝘅 𝗖𝗮𝗽 - 𝗕𝗼𝘁 🔥*', 'status@broadcast')}
 handler.command = /^(grupos|gruposofc|gruposofc)$/i
 module.exports = handler

@@ -48,8 +48,8 @@ let handler = async (m, { conn, usedPrefix }) => {
   let info = `
 ╠═〘 *Informacion del Bot* 〙 ═
 ╠
-╠➥ [🤴🏻] Creador del Bot: *Bruno Sobrino*
-╠➥ [#️⃣] Numero del creador: *+1 (772) 238-6341*
+╠➥ [🤴🏻] Creador del Bot: *Alexander Capiso*
+╠➥ [#️⃣] Numero del creador: *+51 951 856 266*
 ╠➥ [🌐] Navegador: *${conn.browserDescription[1]}*
 ╠➥ [✅] version: *${conn.browserDescription[2]}*
 ╠➥ [🎳] Prefijo: *${usedPrefix}*
@@ -62,11 +62,10 @@ let handler = async (m, { conn, usedPrefix }) => {
 ╠➥ [🔋] Bateria: *${conn.battery ? `${conn.battery.value}%* *${conn.battery.live ? '🔌 Cargando...*' : '⚡ Desconectado*'}` : 'Desconocido*'}
 ╠➥ [📲] Sistema operativo: *${conn.user.phone.device_manufacturer}*
 ╠➥ [🪀] version de WhatsApp: *${conn.user.phone.wa_version}*
-╠➥ [🤖] Bots secundarios activos: *${totaljadibot.length}*
 ╠
-╠═〘 *The Shadow Brokers - Bot* 〙 ═
+╠═〘 *Alex - Bot [10.0]* 〙 ═
 `.trim() 
-  conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 THE SHADOW BROKERS - BOT 🔥*', 'status@broadcast')
+  conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 ALEX CAP - BOT 🔥*', 'status@broadcast')
 }
 //handler.help = ['ping', 'speed']
 //handler.tags = ['info', 'tools']

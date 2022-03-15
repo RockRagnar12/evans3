@@ -10,14 +10,13 @@ let handler = async m => m.reply(`
 *┃ 👉🏻 Aquí tienes algunos datos*
 *┃ para que puedas apoyar <3*
 *┃*
-*┃ -   CLABE: 646180192175788481* 
-*┃ -   BANCO: STP* 
-*┃ -   BENEFICIARIO: JOSE SOBRINO* 
+*┃ -   CLABE: 011-814-000215822740-11* 
+*┃ -   BANCO: BBVA CONTINENTAL* 
+*┃ -   BENEFICIARIO: Alexander Capiso* 
 *┃ -   CONCEPTO: APOYO*  
-*┃➤ PayPal: https://www.paypal.me/TheShadowBrokers133*
 *┃❖ Contáctame si necesitas otros*
 *┃datos y para darte las gracias <3*
-*┃❖ wa.me/5219996125657*
+*┃❖ wa.me/51951856266*
 *┗ ┅ ━━━━━━━━━━━━━ ┅ ━*
 `.trim()) 
 handler.command = /^(dona|donar|apoyar|dardinero|apoyo)$/i
