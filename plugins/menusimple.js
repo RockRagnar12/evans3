@@ -87,8 +87,6 @@ let str = `
 ┣ ඬ⃟📥 _${usedPrefix}spotify_
 ┣ ඬ⃟📥 _${usedPrefix}acortar_
 ┣ ඬ⃟📥 _${usedPrefix}pinterest_
-┣ ඬ⃟📥 _${usedPrefix}xnxx_
-┣ ඬ⃟📥 _${usedPrefix}xnxxsearch_
 ┣ ඬ⃟📥 _${usedPrefix}ssweb_
 ┣ ඬ⃟📥 _${usedPrefix}igstory_
 ┣ ඬ⃟📥 _${usedPrefix}igstalk_
