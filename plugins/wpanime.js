@@ -6,7 +6,7 @@ let handler = async (m, { conn }) => {
         let res = await fetch(global.API('xteam', '/randomimage/wpmobile', {}, 'APIKEY'))
         let img = await res.buffer()
         conn.sendMessage(m.chat, img, MessageType.image, {
-            quoted: m, caption: '*✨The Shadow Brokers - Bot✨*'
+            quoted: m, caption: '*✨©𝗔𝗹𝗲𝘅 𝗖𝗮𝗽 - 𝗕𝗼𝘁✨*'
         })
     } catch (e) {
         console.log(e)
